@@ -1,1 +1,1 @@
-my sql day 1 task is complited.
+my sql day 1 task complited.
